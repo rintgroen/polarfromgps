@@ -1,3 +1,7 @@
+The key file here is getpolar.m
+
+flight_sample.csv is a 200 point sample from flight.csv, which is useful for quicker testing of the algorithms during development.
+
 The script is expecting a tracklog in a comma seperated file format with the following columns:
 1. Row number / ID number
 2. Latitude in degrees (D.DDDD..)
